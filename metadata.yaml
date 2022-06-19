@@ -1,0 +1,29 @@
+_repo: Concerning-Women_68226
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Follette, Suzanne
+    alias: Follette, Suzanne la
+    birthdate: 1893
+    deathdate: 1983
+    gutenberg_agent_id: '54663'
+    url: http://www.gutenberg.org/2009/agents/54663
+    wikipedia: https://en.wikipedia.org/wiki/Suzanne_La_Follette
+description: ''
+gutenberg_issued: '2022-06-04'
+identifiers:
+  gutenberg: '68226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage'
+- !lcsh 'Women -- Social and moral questions'
+- GITenberg
+tableOfContents: The beginnings of emancipation -- Woman's status, past and present
+  -- Institutional marriage and its economic aspects -- Woman and marriage -- The
+  economic position of women -- What is to be done -- Signs of promise.
+title: Concerning Women
+url: http://www.gutenberg.org/ebooks/68226
